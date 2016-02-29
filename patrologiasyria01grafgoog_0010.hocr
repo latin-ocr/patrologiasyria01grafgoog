@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiasyria01grafgoog_0010.png"; bbox 0 0 4120 6456; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 975 2284 1287 2356">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 975 2284 1287 2356">
+     <span class='ocr_line' id='line_1_1' title="bbox 975 2284 1287 2356; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 975 2284 1287 2356; x_wconf 74' lang='lat' dir='ltr'>lMPRlMATUR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 622 2619 1088 2705">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 622 2619 1088 2705">
+     <span class='ocr_line' id='line_1_2' title="bbox 622 2619 1088 2705; baseline -0.004 -21"><span class='ocrx_word' id='word_1_2' title='bbox 622 2619 758 2698; x_wconf 76' lang='lat' dir='ltr'>Parisiis,</span> <span class='ocrx_word' id='word_1_3' title='bbox 780 2622 828 2686; x_wconf 78' lang='lat' dir='ltr'>die</span> <span class='ocrx_word' id='word_1_4' title='bbox 849 2621 888 2686; x_wconf 83' lang='lat'>25</span> <span class='ocrx_word' id='word_1_5' title='bbox 905 2621 977 2705; x_wconf 87' lang='lat' dir='ltr'>julii</span> <span class='ocrx_word' id='word_1_6' title='bbox 998 2619 1088 2687; x_wconf 74' lang='lat'><strong>1894.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1201 2870 1897 2958">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1201 2870 1897 2958">
+     <span class='ocr_line' id='line_1_3' title="bbox 1201 2870 1897 2958; baseline -0.006 -18"><span class='ocrx_word' id='word_1_7' title='bbox 1201 2880 1223 2958; x_wconf 51' lang='grc' dir='ltr'><em>ἢ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1247 2877 1498 2954; x_wconf 71' lang='grc' dir='ltr'>ΡΒΑΝΟΙὸΟϋὸ,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1524 2871 1713 2940; x_wconf 75' lang='lat' dir='ltr'><strong>cardinalis</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1735 2870 1897 2957; x_wconf 70' lang='lat' dir='ltr'><strong>Richard,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1293 3040 1805 3133">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1293 3040 1805 3133">
+     <span class='ocr_line' id='line_1_4' title="bbox 1293 3040 1805 3133; baseline -0.006 -22"><span class='ocrx_word' id='word_1_11' title='bbox 1293 3042 1576 3133; x_wconf 78' lang='lat' dir='ltr'>Archiepiscopus</span> <span class='ocrx_word' id='word_1_12' title='bbox 1599 3040 1805 3108; x_wconf 73' lang='lat' dir='ltr'><strong>parisiensis.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2064 6452">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2064 6452">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2064 6452; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2064 6452; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
